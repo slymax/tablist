@@ -1,8 +1,8 @@
 {
   "name": "Tablist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "description": "a chrome extension to import and export lists of open tabs",
+  "description": "a chrome extension to copy and paste lists of open tabs",
   "permissions": [
     "tabs"
   ],

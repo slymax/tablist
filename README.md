@@ -3,5 +3,5 @@
   <a href="https://addons.mozilla.org/en-US/firefox/addon/tablist"><img src="https://img.shields.io/amo/users/tablist?color=orange&label=firefox&logo=mozilla-firefox&style=for-the-badge"></a>
 </p>
 <p align="center">
-  <img width="640px" src="https://raw.githubusercontent.com/slymax/tablist/master/screenshot.png">
+  <img width="640" height="400" src="https://raw.githubusercontent.com/slymax/tablist/master/screenshot.png">
 </p>

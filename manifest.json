@@ -1,12 +1,12 @@
 {
   "name": "Tablist",
-  "version": "1.0.2",
-  "manifest_version": 2,
-  "description": "a browser extension to copy and paste lists of open tabs",
+  "version": "1.0.3",
+  "manifest_version": 3,
+  "description": "copy and paste lists of open tabs",
   "permissions": [
     "tabs"
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "index.html"
   },
   "icons": {

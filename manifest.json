@@ -4,6 +4,7 @@
   "manifest_version": 3,
   "description": "copy and paste lists of open tabs",
   "permissions": [
+    "search",
     "tabs"
   ],
   "action": {

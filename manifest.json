@@ -1,6 +1,6 @@
 {
   "name": "Tablist",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "manifest_version": 3,
   "description": "copy and paste lists of open tabs",
   "permissions": [
